@@ -1,5 +1,3 @@
-@ CSCN71010 F24 Assembly - Slide 56
-@
 @ Suppose that register r6 contains a
 @ person's year of birth, and register
 @ r7 contains their height in centimetres.
