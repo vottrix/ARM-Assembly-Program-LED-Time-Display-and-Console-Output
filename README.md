@@ -1,4 +1,4 @@
-# ARM Assembly Exercises – CSCN71010
+# ARM Assembly Exercises
 
 This repository contains a collection of ARM assembly programs written for weekly exercises in the CSCN71010 course. Each file demonstrates a specific concept in low-level programming, including memory access, arithmetic operations, branching, system calls, and function implementation.
 
@@ -41,4 +41,4 @@ Or tested via QEMU, an emulator for ARM platforms.
 
 ## 📚 License
 
-MIT License. For educational use in CSCN71010.
+MIT License. For educational use.
