@@ -1,4 +1,4 @@
-.arch armv7ve
+.arch armv7ve              @ The LED will work with this approach 
 .global _start
 _start:
 	@ Write to LEDs
