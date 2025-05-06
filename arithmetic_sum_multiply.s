@@ -1,5 +1,3 @@
-@ CSCN71010 F24 Assembly - Slide 38
-@
 @ Write an assembly program that stores:
 @ - Adds 2398 and 7341
 @ - Multiplies the result by 15
